@@ -1,6 +1,5 @@
 import pylab as pb
 import numpy as np
-from math import pi
 import matplotlib.pyplot as plt
 from scipy.stats import multivariate_normal
 import random
